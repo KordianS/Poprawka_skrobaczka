@@ -34,7 +34,7 @@ kod zdrapujący listę najpopularniejszych filmów z IMDB ze strony *The 50 Best
    ```
     pip install pandas
     ```
-    This allows us to search & extract content from an HTML webpage
+    pandas supports the integration with many file formats or data sources out of the box (csv, excel, sql, json, parquet,…). Importing data from each of these data sources is provided by function with the prefix read_*. Similarly, the to_* methods are used to store data.
 
 
 ## Source
